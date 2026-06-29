@@ -1,4 +1,4 @@
-# 
+# Automatic Omni Flash plugins. Featuring model-monitoring and hybrid-AI-models — optimized for maximum performance and efficiency.
 
 
 
